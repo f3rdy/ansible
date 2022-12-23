@@ -1,3 +1,4 @@
 #pip packages required to build docssite
 sphinx
 PyYAML
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
