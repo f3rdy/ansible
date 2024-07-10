@@ -1,3 +1,4 @@
 #pip packages required to build docssite
 sphinx
 PyYAML
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
